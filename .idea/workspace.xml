@@ -41,43 +41,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpenChromeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenChromeTest.java">
+      <file leaf-file-name="OpenFirefoxTest1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenFirefoxTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sandbox.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Sandbox.java">
+      <file leaf-file-name="OpenChromeTest1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenChromeTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="234">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpenFirefoxTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java">
+      <file leaf-file-name="OpenEdgeTest1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenEdgeTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,7 +94,7 @@
       <file leaf-file-name="Ebay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Ebay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
+            <state relative-caret-position="425">
               <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -406,10 +414,13 @@
         <option value="$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenChromeTest.java" />
         <option value="$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java" />
         <option value="$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Ebay.java" />
+        <option value="$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenFirefoxTest1.java" />
+        <option value="$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenChromeTest1.java" />
+        <option value="$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenEdgeTest1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="45" />
     <option name="width" value="1346" />
@@ -431,6 +442,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -469,15 +481,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="qa15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="First-selenium-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="First-selenium-project" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa15" type="462c0819:PsiDirectoryNode" />
+              <item name="homework1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -504,7 +524,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.OpenFirefoxTest.openSiteTest">
+  <component name="RunManager" selected="TestNG.OpenEdgeTest1">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -553,6 +573,38 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="OpenChromeTest1.testOpenBrowser" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.telran.qa15.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="First-selenium-project_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.telran.qa15.homework1" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.homework1.OpenChromeTest1" />
+      <option name="METHOD_NAME" value="testOpenBrowser" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="OpenChromeTest.testOpenBrowser" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="First-selenium-project_test" />
@@ -564,6 +616,70 @@
       <option name="METHOD_NAME" value="testOpenBrowser" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="OpenEdgeTest1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.telran.qa15.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="First-selenium-project_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.telran.qa15.homework1" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.homework1.OpenEdgeTest1" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="OpenFirefoxTest1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.telran.qa15.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="First-selenium-project_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.telran.qa15.homework1" />
+      <option name="MAIN_CLASS_NAME" value="com.telran.qa15.homework1.OpenFirefoxTest1" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -645,14 +761,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.OpenChromeTest.testOpenBrowser" />
       <item index="1" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest.openSiteTest" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest1" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.OpenChromeTest1.testOpenBrowser" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.OpenEdgeTest1" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest.openSiteTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.OpenChromeTest.testOpenBrowser" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.OpenEdgeTest1" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.OpenChromeTest1.testOpenBrowser" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest1" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.OpenFirefoxTest.openSiteTest" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.OpenChromeTest.testOpenBrowser" />
       </list>
     </recent_temporary>
   </component>
@@ -673,17 +795,17 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OpenChromeTest_testOpenBrowser - 2018.09.17 at 20h 50m 03s.xml">
-      <configuration name="OpenChromeTest.testOpenBrowser" configurationId="TestNG" />
+    <history-entry file="OpenChromeTest1_testOpenBrowser - 2018.09.26 at 19h 19m 17s.xml">
+      <configuration name="OpenChromeTest1.testOpenBrowser" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenChromeTest_testOpenBrowser - 2018.09.17 at 20h 56m 59s.xml">
-      <configuration name="OpenChromeTest.testOpenBrowser" configurationId="TestNG" />
+    <history-entry file="OpenChromeTest1_testOpenBrowser - 2018.09.26 at 19h 21m 05s.xml">
+      <configuration name="OpenChromeTest1.testOpenBrowser" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxTest_openSiteTest - 2018.09.20 at 20h 25m 14s.xml">
-      <configuration name="OpenFirefoxTest.openSiteTest" configurationId="TestNG" />
+    <history-entry file="OpenEdgeTest1 - 2018.09.26 at 19h 24m 10s.xml">
+      <configuration name="OpenEdgeTest1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="OpenFirefoxTest_openSiteTest - 2018.09.20 at 20h 34m 32s.xml">
-      <configuration name="OpenFirefoxTest.openSiteTest" configurationId="TestNG" />
+    <history-entry file="OpenFirefoxTest1 - 2018.09.26 at 19h 13m 08s.xml">
+      <configuration name="OpenFirefoxTest1" configurationId="TestNG" />
     </history-entry>
     <history-entry file="OpenFirefoxTest_openSiteTest - 2018.09.24 at 13h 29m 56s.xml">
       <configuration name="OpenFirefoxTest.openSiteTest" configurationId="TestNG" />
@@ -700,9 +822,13 @@
     <history-entry file="OpenFirefoxTest_openSiteTest - 2018.09.24 at 13h 47m 10s.xml">
       <configuration name="OpenFirefoxTest.openSiteTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="OpenFirefoxTest_openSiteTest - 2018.09.26 at 17h 32m 28s.xml">
+      <configuration name="OpenFirefoxTest.openSiteTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -712,12 +838,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28431374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28431374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2322239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23600605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -747,6 +873,60 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenChromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Sandbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Ebay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/First-selenium-project/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -857,10 +1037,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Sandbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Ebay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenChromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#338#339#0" expanded="true" />
@@ -873,32 +1083,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Sandbox.java">
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenFirefoxTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/Ebay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/sandbox/OpenFirefoxTest.java">
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenChromeTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="234">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/First-selenium-project/src/test/java/com/telran/qa15/homework1/OpenEdgeTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
           </folding>
         </state>
       </provider>
