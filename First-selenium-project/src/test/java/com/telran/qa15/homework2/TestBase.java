@@ -26,7 +26,7 @@ public class TestBase {
     public void tearDown(){
         wd.quit();
     }
-    
+
     public void OpenWikipedia() {
         wd.get("https://www.wikipedia.org/");
     }
