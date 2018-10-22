@@ -10,10 +10,10 @@ public class ContactCreationTests extends TestBase {
 
     public void tectContactCreation() {
 
-        openContactPage();
-        fillContactForm("Vasy", "Ivanov", "Kyiv", "220222", "zx@cv");
-        submitContactCreation();
-        returnToContactPage();
+        app.openContactPage();
+        app.fillContactForm("Vasy", "Ivanov", "Kyiv", "220222", "zx@cv");
+        app.submitContactCreation();
+        app.returnToContactPage();
 
     }
 
