@@ -6,20 +6,20 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class GroupModificationTests extends TestBase {
-    
+
     @BeforeMethod
-    public void preconditions(){
+    public void preconditions() {
         app.getGroupHelper().openGroupPage();
-        if(!app.getGroupHelper().isGroupPresent()){
+        if (!app.getGroupHelper().isGroupPresent()) {
             app.getGroupHelper().creatGroup();
         }
     }
 
     @Test
-    public void testGroupModification(){
+    public void testGroupModification() {
         app.getGroupHelper().openGroupPage();
         int before = app.getGroupsCount();
-        app.selectGroupByIndex(before-1);
+        app.selectGroupByIndex(before - 1);
         app.getGroupHelper().initGroupModification();
         app.getGroupHelper().fillGroupForm(new Group()
                 .setGroupHeader("modifyed")
@@ -27,8 +27,8 @@ public class GroupModificationTests extends TestBase {
                 .setGroupFooter("Changed"));
         app.getGroupHelper().submitGroupModification();
         app.getGroupHelper().returnToGroupsPage();
-int after = app.getGroupsCount();
-        Assert.assertEquals(after,before);
+        int after = app.getGroupsCount();
+        Assert.assertEquals(after, before);
     }
 
 }

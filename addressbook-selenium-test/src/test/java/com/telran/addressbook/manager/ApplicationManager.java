@@ -1,5 +1,6 @@
 package com.telran.addressbook.manager;
 
+import com.telran.addressbook.model.Contact;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -7,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 public class ApplicationManager {
+    private ContactHelper contactHelper;
     WebDriver wd;
     private SessionHelper sessionHelper;
     private GroupHelper groupHelper;
@@ -24,6 +26,8 @@ public class ApplicationManager {
         sessionHelper = new SessionHelper(wd);
         sessionHelper.login("admin", "secret");
 
+        contactHelper = new ContactHelper(wd);
+
         groupHelper = new GroupHelper(wd);
         navigationHelper = new NavigationHelper(wd);
 
@@ -36,23 +40,6 @@ public class ApplicationManager {
         wd.quit();
     }
 
-    //=======================================================
-    public void returnToContactPage() {
-        groupHelper.click(By.linkText("home page"));
-    }
-
-    public void submitContactCreation() {
-        groupHelper.click(By.name("submit"));
-    }
-
-    public void fillContactForm(String firstName, String lastName, String address, String telephone, String email) {
-        groupHelper.type(By.name("firstname"), firstName);
-        groupHelper.type(By.name("lastname"), lastName);
-        groupHelper.type(By.name("address"), address);
-        groupHelper.type(By.name("home"), telephone);
-        groupHelper.type(By.name("email"), email);
-    }
-
     public void openContactPage() {
         groupHelper.click(By.cssSelector("[href='edit.php']"));
     }
@@ -60,27 +47,6 @@ public class ApplicationManager {
     public void openHomePage() {
         groupHelper.click(By.cssSelector("[href='./']"));
         //"#nav > ul > li:nth-child(1) > a"
-    }
-
-    public void submitContactModification() {
-        groupHelper.click(By.name("update"));
-    }
-
-    public void initContactModification() {
-        groupHelper.click(By.cssSelector("[title=Edit]"));
-    }
-
-    public void selectContact() {
-        groupHelper.click(By.cssSelector("[type=checkbox]"));
-        // [type=checkbox]"#'31 4"
-    }
-
-    public void deleteContact() {
-        groupHelper.click(By.cssSelector("[value=Delete]"));
-
-        //  #content > form:nth-child(10) > div:nth-child(8) > input[type="button"]
-        // [value='Delete']"    [ value="Delete"]
-        wd.switchTo().alert().accept();
     }
 
     public int getGroupsCount() {
@@ -97,5 +63,9 @@ public class ApplicationManager {
 
     public SessionHelper getSessionHelper() {
         return sessionHelper;
+    }
+
+    public ContactHelper getContactHelper() {
+        return contactHelper;
     }
 }
