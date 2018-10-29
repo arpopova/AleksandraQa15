@@ -8,16 +8,16 @@ import org.testng.annotations.Test;
 public class ContactModificationTests extends TestBase {
     @BeforeMethod
     public void preconditions() {
-        app.openContactPage();
-        if (!isContactPresent()) {
-            createContact();
+        app.getContactHelper().openContactCreationPage();
+        if (!app.getContactHelper().isContactPresent()) {
+            app.getContactHelper().createContact();
         }
     }
 
     @Test
     public void testContactModification(){
        // openHomePage();
-        int before = getContactsCount();
+        int before = app.getContactCount();
         app.getContactHelper().selectContactByIndex(before-1);
         app.getContactHelper().initContactModification();
         app.getContactHelper().fillContactForm(new Contact().
@@ -28,7 +28,7 @@ public class ContactModificationTests extends TestBase {
                 .setEmail("zx@cv"));
         app.getContactHelper().submitContactModification();
         app.getContactHelper().returnToContactPage();
-        int after = getContactsCount();
+        int after = app.getContactCount();
         Assert.assertEquals(after,before);
     }
 

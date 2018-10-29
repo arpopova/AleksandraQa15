@@ -11,9 +11,14 @@ public class ContactCreationTests extends TestBase {
     @Test
 
     public void testContactCreation() {
+//       app.getNavigationHelper().openSite("http://localhost/addressbook/");
+//        app.getSessionHelper().login("admin","secret");
+        app.getContactHelper().openContactPage();
+        int before = app.getContactCount();
 
-        app.openContactPage();
-        int before = getContactsCount();
+        app.getContactHelper().openContactCreationPage();
+
+
 
         app.getContactHelper().fillContactForm(new Contact()
                 .setFirstName("Vasy")
@@ -23,8 +28,8 @@ public class ContactCreationTests extends TestBase {
                 .setEmail("zx@cv"));
         app.getContactHelper().submitContactCreation();
         app.getContactHelper().returnToContactPage();
-        int after = getContactsCount();
-        Assert.assertEquals(after,before+1);
+        int after = app.getContactCount();
+        Assert.assertEquals(after, before + 1);
     }
 
 

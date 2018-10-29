@@ -2,6 +2,7 @@ package com.telran.addressbook.manager;
 
 import com.telran.addressbook.model.Contact;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 
 public class ContactHelper extends HelperBase {
@@ -48,5 +49,37 @@ public class ContactHelper extends HelperBase {
 
     public void selectContactByIndex(int index) {
         wd.findElements(By.name("selected[]")).get(index).click();
+    }
+
+    public void openContactCreationPage() {
+        click(By.cssSelector("[href='edit.php']"));
+
+    }
+
+    public void openContactPage() {
+        click(By.cssSelector("[href='./']"));
+    }
+
+
+    public boolean isContactPresent() {
+        isElementPresent(By.name("selected[]"));
+        return true;
+    }
+
+    public void createContact() {
+        openContactCreationPage();
+        fillContactForm(new Contact()
+                .setFirstName("Vasy")
+                .setLastName("Ivanov")
+                .setAddress("Kyiv")
+                .setTelephone("220222")
+                .setEmail("zx@cv"));
+        submitContactCreation();
+        returnToContactPage();
+
+    }
+
+    public int getContactCount() {
+        return wd.findElements(By.name("selected[]")).size();
     }
 }
