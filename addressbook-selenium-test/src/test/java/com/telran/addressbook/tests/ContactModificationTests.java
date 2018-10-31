@@ -8,17 +8,16 @@ import org.testng.annotations.Test;
 public class ContactModificationTests extends TestBase {
     @BeforeMethod
     public void preconditions() {
-        app.getContactHelper().openContactCreationPage();
+        app.getContactHelper().openContactPage();
         if (!app.getContactHelper().isContactPresent()) {
             app.getContactHelper().createContact();
         }
     }
-
     @Test
     public void testContactModification(){
        // openHomePage();
         int before = app.getContactCount();
-        app.getContactHelper().selectContactByIndex(before-1);
+       // app.getContactHelper().selectContactByIndex(before-1);
         app.getContactHelper().initContactModification();
         app.getContactHelper().fillContactForm(new Contact().
                 setFirstName("Vasy")
