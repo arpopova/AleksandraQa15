@@ -6,7 +6,6 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 
 public class ContactHelper extends HelperBase {
-    WebDriver wd;
 
     public ContactHelper(WebDriver wd) {
         super(wd);
