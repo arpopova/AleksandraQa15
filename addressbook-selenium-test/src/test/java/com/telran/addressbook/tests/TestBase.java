@@ -1,13 +1,9 @@
 package com.telran.addressbook.tests;
 
 import com.telran.addressbook.manager.ApplicationManager;
-import com.telran.addressbook.model.Contact;
-import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.remote.BrowserType;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
+import sun.plugin2.util.BrowserType;
 
 public class TestBase {
     WebDriver wd;

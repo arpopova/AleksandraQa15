@@ -6,7 +6,7 @@
             <class name="com.telran.addressbook.tests.GroupCreationTests" />
             <class name="com.telran.addressbook.tests.ContactModificationTests" />
             <class name="com.telran.addressbook.tests.ContactDeletionTest" />
-        </classes>sts
+        </classes>
     </test>
 
 

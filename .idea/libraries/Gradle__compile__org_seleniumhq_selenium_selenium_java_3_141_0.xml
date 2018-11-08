@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: compile 'org.seleniumhq.selenium:selenium-java:3.141.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/First-selenium-project/Could not find compile 'org.seleniumhq.selenium:selenium-java:3.141.0.&#13;&#10;Searched in the following locations:&#13;&#10;    https:/repo1.maven.org/maven2/compile 'org/seleniumhq/selenium/selenium-java/3.141.0/selenium-java-3.141.0.pom&#13;&#10;    https:/repo1.maven.org/maven2/compile 'org/seleniumhq/selenium/selenium-java/3.141.0/selenium-java-3.141.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

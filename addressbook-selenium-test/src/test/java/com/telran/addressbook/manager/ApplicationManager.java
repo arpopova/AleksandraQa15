@@ -28,7 +28,6 @@ public class ApplicationManager {
     }
 
     public void start() {
-
         if(browser.equals(BrowserType.CHROME)){
             wd = new ChromeDriver();
         }else  if (browser.equals(BrowserType.FIREFOX)){
@@ -36,7 +35,7 @@ public class ApplicationManager {
         }else if (browser.equals(BrowserType.EDGE)){
             wd = new EdgeDriver();
         }
-        wd = new ChromeDriver();
+
         wd.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 
 
