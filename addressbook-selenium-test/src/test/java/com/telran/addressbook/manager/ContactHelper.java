@@ -6,7 +6,10 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 
 public class ContactHelper extends HelperBase {
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b00ce4609e989a1edcd6509a7b978c648b55411
 
     public ContactHelper(WebDriver wd) {
         super(wd);
