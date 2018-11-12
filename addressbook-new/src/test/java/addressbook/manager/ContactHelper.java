@@ -1,8 +1,7 @@
-package com.telran.addressbook.manager;
+package addressbook.manager;
 
-import com.telran.addressbook.model.Contact;
+import addressbook.model.Contact;
 import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 
 public class ContactHelper extends HelperBase {
