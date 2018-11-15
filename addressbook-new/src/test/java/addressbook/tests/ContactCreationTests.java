@@ -1,7 +1,7 @@
 package addressbook.tests;
 
 
-import com.telran.addressbook.model.Contact;
+import addressbook.model.Contact;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
