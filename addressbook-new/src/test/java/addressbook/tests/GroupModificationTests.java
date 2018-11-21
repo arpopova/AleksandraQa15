@@ -1,6 +1,6 @@
 package addressbook.tests;
 
-import com.telran.addressbook.model.Group;
+import addressbook.model.Group;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;

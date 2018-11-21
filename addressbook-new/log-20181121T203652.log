@@ -1,0 +1,10 @@
+8731 [main] INFO  addressbook.tests.TestBase - Start testtestContactCreation
+11778 [main] INFO  addressbook.tests.TestBase - Stop testtestContactCreation
+11782 [main] INFO  addressbook.tests.TestBase - Start testtestContactDeletion
+15853 [main] INFO  addressbook.tests.TestBase - Stop testtestContactDeletion
+15855 [main] INFO  addressbook.tests.TestBase - Start testtestContactModification
+18870 [main] INFO  addressbook.tests.TestBase - Stop testtestContactModification
+18951 [main] INFO  addressbook.tests.TestBase - Start testtestGroupDeletion
+20499 [main] INFO  addressbook.tests.TestBase - Stop testtestGroupDeletion
+20510 [main] INFO  addressbook.tests.TestBase - Start testtestGroupModification
+22895 [main] INFO  addressbook.tests.TestBase - Stop testtestGroupModification
