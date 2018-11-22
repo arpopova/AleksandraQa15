@@ -21,11 +21,11 @@ public class ContactCreationTests extends TestBase {
 
 
         app.getContactHelper().fillContactForm(new Contact()
-                .setFirstName("Vasy")
+                .setFirstName("1Vasy")
                 .setLastName("Ivanov")
-                .setAddress("Kyiv")
+               .setAddress("Kyiv")
                 .setTelephone("220222")
-                .setEmail("zx@cv"));
+               .setEmail("zx@cv"));
         app.getContactHelper().submitContactCreation();
         app.getContactHelper().returnToContactPage();
         int after = app.getContactCount();
